@@ -3,4 +3,4 @@ glonal Planing
 - bulan ke-2 belajar css
 - bulan ke-3 belajar fremwork
 - bulan ke-4 belajar java scrip
-- bulan ke-5 belajar php
+- belajar backend
