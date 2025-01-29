@@ -7,6 +7,3 @@ Glonal backend
 - belajar type data
 - belajar php 
 - belajar php fremwork
-  * belajar laravel
-   
-
