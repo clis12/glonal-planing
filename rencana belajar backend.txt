@@ -2,6 +2,9 @@ Glonal backend
 - belajar java scrip
   * belajar algoritma
   * belajar freamwork javascript
+  * belajar angular
+  * belajar react
 - belajar type data
 - belajar php 
 - belajar php fremwork
+ * belajar laravel
