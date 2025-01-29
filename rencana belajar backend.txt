@@ -3,6 +3,7 @@ Glonal backend
   * belajar algoritma
   * belajar freamwork javascript
   * belajar vie
+  * belajar react
 - belajar type data
 - belajar php 
 - belajar php fremwork
